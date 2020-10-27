@@ -3,7 +3,17 @@
     background-color: rgb(72, 72, 82);
   }
 
-  .btn-primary:hover {
+.btn-primary:hover {
     background-color: blue;
     color: white;
-  }
+}
+
+
+.hero-background-img {
+    background-image: url("japan1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+}
